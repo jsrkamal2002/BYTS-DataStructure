@@ -3,11 +3,13 @@
 1. Amar and vimal are friends living in the same street with door no 10 and 20 respectively. They went for a walk on a stromy night. They missed their ways & got lost with each of their door no respectively. Help them to reach their home using a programing language.
 1. Lisa is a student who comes across a traffic signal on her way to college.Help her with possible combination with to cross the traffic signal.
 1. Deepak is a plumber who fixes up some repairs on a tank. water keeps leaking from the spherical tank.As a result the tank has become half empty he wants to assess the maximum capacity of the tank.how can he do it?
-1. A number is weak
+
 ---
+
 Answer
 
 Qn 1:
+
 ```c
 #include <stdio.h>
 
@@ -32,7 +34,9 @@ int main(int argc, char const *argv[])
     return 0;
 }
 ```
+
 Qn 2:
+
 ```c
 #include <stdio.h>
 #include <ctype.h>
@@ -61,9 +65,11 @@ int main(int argc, char const *argv[])
     return 0;
 }
 ```
+
 ---
 
 Bonus :
+
 - Circuit Qn
 
 ```c
