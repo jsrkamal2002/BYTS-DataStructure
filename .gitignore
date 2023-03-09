@@ -1,0 +1,8 @@
+Day 2
+
+#output files
+out
+*.exe
+
+#config files 
+.vscode
